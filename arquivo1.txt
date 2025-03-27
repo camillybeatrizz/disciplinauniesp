@@ -1,4 +1,4 @@
 Faculdade Uniesp
 Curso: Ciências da Computação
-Camilly Beatriz Leite de Oliveira
-Disciplina: Tópicos Essenciais para Programação
+
+Respondendo a lista de exercício do GitHub
